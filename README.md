@@ -7,6 +7,9 @@
 **ONLY DOWNLOAD IT FROM THE GIVEN OFFICIAL  LINK , DO NOT TRUST IN OTHER PLACES.**
 - **github** https://github.com/softaim/PED
 - **website**  https://gkaim.com/tools/ped
+# Direct PED Setup Download Link 
+- **32-bit Windows** https://github.com/softaim/PED/raw/master/Setup-PED-32.exe
+- **64-bit Windows** https://github.com/softaim/PED/raw/master/Setup-PED-64.exe
 
 Personal Encrypter/Decrypter {PED} is a software based on Personal Privacy . Use  PED for your Personal chat or secret message.
 
@@ -15,7 +18,7 @@ It dosen't need any Net connection , so fell free to use it but please don't use
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * Installation Password  =>  Myaim 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-PED is a simple Application based on Personal Privacy  that  you can Encrypt and Decrypt your Message by Password.
+PED is a simple Windows Based Application which is made for Personal Privacy  that  you can Encrypt and Decrypt your Message by Password.
  --------------------
  USES:-> 
 * 1- First Install PED 
@@ -32,3 +35,4 @@ Published on :- https://gkaim.com/tools/ped
 Github :- https://github.com/softaim/ped
  ------
 Thanks You
+~~~~~~~~~~~~~~
