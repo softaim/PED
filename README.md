@@ -34,6 +34,6 @@ Contact :- https://gkaim.com/contact-us
 Published on :- https://gkaim.com/ped-vikas-chaudhary
 Github :- https://github.com/softaim/ped
  ------
-Thanks You
+ThankYou
 ~~~~~~~~~~~~~~
 ## For SOURCE-CODE Contact Admin ##
