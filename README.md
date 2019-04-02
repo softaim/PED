@@ -6,7 +6,7 @@
 
 **ONLY DOWNLOAD IT FROM THE GIVEN OFFICIAL  LINK , DO NOT TRUST IN OTHER PLACES.**
 - **github** https://github.com/softaim/PED
-- **website**  https://gkaim.com/tools/ped
+- **website**  https://gkaim.com/ped-vikas-chaudhary
 # Direct PED Setup Download Link 
 - **32-bit Windows** https://github.com/softaim/PED/raw/master/Setup-PED-32.exe
 - **64-bit Windows** https://github.com/softaim/PED/raw/master/Setup-PED-64.exe
@@ -31,7 +31,7 @@ Credit goes to  Vikas Chaudhary - MyAiM
  ~~~~~~~~~~~ 
 Website :- https://gkaim.com
 Contact :- https://gkaim.com/contact-us
-Published on :- https://gkaim.com/tools/ped
+Published on :- https://gkaim.com/ped-vikas-chaudhary
 Github :- https://github.com/softaim/ped
  ------
 Thanks You
