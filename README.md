@@ -24,7 +24,7 @@ PED is a simple Windows Based Application which is made for Personal Privacy  th
 * 1- First Install PED 
 * 2- Open PED and Type your message which you want to Encrypt  in textbox area .
 * 3- Type any Password in Password Textbox area .
-* 4- Now click on Encryt  button then you will get Encrypted message in text box .
+* 4- Now click on Encrypt  button then you will get Encrypted message in text box .
 * 5- When you want original Message then you have to write your Encrypted message and Password in that text box then click on Decrypt Button you will get original message.
 --------------------
 Credit goes to  Vikas Chaudhary - MyAiM
